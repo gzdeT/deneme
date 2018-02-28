@@ -17,6 +17,7 @@ namespace GitDenemeApp
        public class Deneme2
        {
            int a = 3;
+           //deneme
 
        }
         
