@@ -7,5 +7,6 @@ namespace GitDenemeApp
 {
     public class denemeClass
     {
+        int i = 0;
     }
 }
